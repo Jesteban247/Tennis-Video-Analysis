@@ -6,7 +6,8 @@ Welcome to the AI Tennis Video Analysis project! This repository contains code t
 We have provided example output videos to showcase the performance of the models. You can find these videos in the videos directory.
 
 
-https://github.com/Jesteban247/Tennis-Video-Analysis/assets/135396733/0920bc26-1bde-4be6-9e1b-ae43506206f9
+
+https://github.com/Jesteban247/Tennis-Video-Analysis/assets/135396733/dcfb6853-7115-4db4-941a-d4d9b90949a4
 
 
 
