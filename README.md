@@ -5,6 +5,11 @@ Welcome to the AI Tennis Video Analysis project! This repository contains code t
 ## 📹 Results
 We have provided example output videos to showcase the performance of the models. You can find these videos in the videos directory.
 
+
+https://github.com/Jesteban247/Tennis-Video-Analysis/assets/135396733/0920bc26-1bde-4be6-9e1b-ae43506206f9
+
+
+
 ## 🧠⚡ Features
 - 🎾 Ball Detection and Tracking: Uses a customized TrackNet model to accurately detect and track the tennis ball in each frame of the video.
 - 🏃‍♂️ Player Detection: Employs a YOLO v8 model to detect and track players on the court.
@@ -29,4 +34,4 @@ We have provided example output videos to showcase the performance of the models
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jesteban247/Tennis-Video-Analysis/blob/main/LICENSE) file for details.
