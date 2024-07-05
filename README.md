@@ -2,14 +2,16 @@
 
 Welcome to the AI Tennis Video Analysis project! This repository contains code to detect, track, and analyze the movements of a tennis ball, players, and key points on the court using advanced deep learning techniques. The project leverages YOLO for player detection, a custom neural network for ball tracking, and a ResNet50 model for detecting court keypoints.
 
-## 📹 Results
+## 🎥 Video Demo
+
+
+
+
+https://github.com/Jesteban247/Tennis-Video-Analysis/assets/135396733/12e86557-0b47-48df-84de-f32a7d420205
+
+
+
 We have provided example output videos to showcase the performance of the models. You can find these videos in the videos directory.
-
-
-
-https://github.com/Jesteban247/Tennis-Video-Analysis/assets/135396733/dcfb6853-7115-4db4-941a-d4d9b90949a4
-
-
 
 ## 🧠⚡ Features
 - 🎾 Ball Detection and Tracking: Uses a customized TrackNet model to accurately detect and track the tennis ball in each frame of the video.
